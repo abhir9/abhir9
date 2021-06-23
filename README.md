@@ -1,23 +1,20 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BPranam%20%F0%9F%99%8F%3BKhamma%20Ghani%20%F0%9F%99%8F%3BVanakkam%20%F0%9F%99%8F%3BSat%20Sri%20Akaal%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
 <br>
+<h2 id="analytics">📊 Github Visit Analytics</h2>
+![ViewCount](https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove)
+</div>
+<div>
+<h2 id="stats">📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true">
 </div>
 
-![ViewCount](https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove) <br>
 
-<!--
-**abhir9/abhir9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h2 id="streak">🔥GitHub Streak</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb">
+<br>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&theme=vue)](https://github.com/abhir9/github-readme-stats)
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent">
