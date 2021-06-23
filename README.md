@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https%3A%2F%2Freadme-typing-svg.herokuapp.com%2F%3Fsize%3D50%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D100%26lines%3DNamaste%2B%F0%9F%99%8F%3BPranam%2B%F0%9F%99%8F%3BKhamma%20Ghani%2B%F0%9F%99%8F%3BVanakkam%2B%F0%9F%99%8F%3BSat%20Sri%20Akaal%2B%F0%9F%99%8F%3BAssalam%20Alaikum%2B%F0%9F%99%8F%3B">
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%2B%F0%9F%99%8F%3BPranam%2B%F0%9F%99%8F%3BKhamma%20Ghani%2B%F0%9F%99%8F%3BVanakkam%2B%F0%9F%99%8F%3BSat%20Sri%20Akaal%2B%F0%9F%99%8F%3BAssalam%20Alaikum%2B%F0%9F%99%8F%3B">
 <br>
 </div>
 
