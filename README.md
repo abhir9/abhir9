@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste%20%F0%9F%99%8F%3BPranam%20%F0%9F%99%8F%3BKhamma%20Ghani%20%F0%9F%99%8F%3BVanakkam%20%F0%9F%99%8F%3BSat%20Sri%20Akaal%20%F0%9F%99%8F%3BAssalam%20Alaikum%20%F0%9F%99%8F%3B">
 <br>
+    
+<img src="https://github.com/abhir9/abhir9/blob/main/code.gif">
 <img src="https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove">
+
 </div>
 
 
