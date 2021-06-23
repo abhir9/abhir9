@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Abhimanyu Singh Rathore
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?size=50&center=true&vCenter=true&width=800&height=100&lines=Namaste+🙏;Pranam+🙏;Khamma Ghani+🙏;Vanakkam+🙏;Sat Sri Akaal+🙏;Assalam Alaikum+🙏;">
+<br>
+</div>
 
 ![ViewCount](https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove) <br>
 
