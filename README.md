@@ -8,9 +8,9 @@
 
 
 <div>
-<a ><img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true&theme=react"></a>&#8198;
+<a ><img width=422 src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true&theme=react"></a>&#8198;
 <!-- <img  alt="GIF" src="https://github.com/abhir9/abhir9/blob/main/code.gif" width="311" height="200" /> -->
-<a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
+<a ><img width=422 src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
 </div>
 
 <br>
