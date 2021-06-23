@@ -35,7 +35,7 @@
 <div>
 <h2 id="stats">🔥 GitHub Stats & GitHub Streak</h2>
 <a><img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true&theme=react"></a>&#8198;
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9"></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
 </div>
 
 <br>
