@@ -40,4 +40,4 @@
 
 <br>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent&theme=react-dark">
