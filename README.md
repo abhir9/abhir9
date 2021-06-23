@@ -7,7 +7,6 @@
 
 
 <div>
-<h2 id="stats">🔥 GitHub Stats & GitHub Streak</h2>
 <a ><img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true&theme=react"></a>&#8198;
 <!-- <img  alt="GIF" src="https://github.com/abhir9/abhir9/blob/main/code.gif" width="311" height="200" /> -->
 <a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhir9&theme=react"></a>
@@ -16,7 +15,9 @@
 <br>
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent&theme=react-dark">
+<br>
 <div>
+    
 <h2 id="skills">My Skills ✍️</h2>
 <p align="left">
     <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
