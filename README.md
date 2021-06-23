@@ -6,12 +6,11 @@
 
 
 <div>
-<h2 id="stats">📊 GitHub Stats        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               🔥GitHub Streak</h2>
+<h2 id="stats">🔥 GitHub Stats & GitHub Streak</h2>
 <a><img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true"></a>&#8198;
 <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb"></a>
 </div>
 
 <br>
-
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent">
