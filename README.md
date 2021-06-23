@@ -4,6 +4,13 @@
 <img src="https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove">
 </div>
 
+
+<div>
+<h2 id="stats">📊 GitHub Stats</h2>
+<a><img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true"></a>&#8198;
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb"></a>
+</div>
+
 <div>
 <h2 id="stats">📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true">
