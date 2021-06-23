@@ -3,17 +3,15 @@
 <br>
 <img src="https://views.whatilearened.today/views/github/abhir9/abhir9.svg?cache=remove">
 </div>
+
 <div>
 <h2 id="stats">📊 GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=abhir9&show_icons=true&count_private=true">
-</div>
-
-
-<div>
 <h2 id="streak">🔥GitHub Streak</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishdevdb">
-<br>
 </div>
+
+<br>
 
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent">
